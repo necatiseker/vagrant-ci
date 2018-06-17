@@ -1,0 +1,14 @@
+{
+    "CN": "global.nomad",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [{
+        "C": "TR",
+        "L": "Usak City",
+        "O": "CI",
+        "OU": "Nomad",
+        "ST": "Usak"
+    }]
+}

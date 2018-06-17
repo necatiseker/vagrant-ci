@@ -1,0 +1,14 @@
+{
+    "CN": "vault.dc1.consul",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [{
+        "C": "TR",
+        "L": "Usak City",
+        "O": "CI",
+        "OU": "Vault",
+        "ST": "Usak"
+    }]
+}
