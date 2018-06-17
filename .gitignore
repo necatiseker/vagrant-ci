@@ -2,6 +2,7 @@ ca/*.csr
 ca/*.pem
 data/
 .DS_Store
+keys.txt
 *.log
 target/
 .vagrant/
